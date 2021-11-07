@@ -7,6 +7,6 @@ This project is inspired by [a recent NY Times podcast](https://www.nytimes.com/
 
 I googled to learn more, and found a [2019 Washington Post article](https://www.washingtonpost.com/business/2019/04/19/how-living-wrong-side-time-zone-can-be-hazardous-your-health/) on the subject. This article reprints a beautiful visualization of average annual sunset time from the [2019 journal article](https://www.sciencedirect.com/science/article/abs/pii/S0167629618309718) by researchers from Pittsburgh and Switzerland. 
 
-![lights out](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/767FMHRZ3FGN7FODGRCRRRCYTQ.png&w=916)
+![lights out]({{ site.baseurl }}/images/lightsout_900px.png)
 
 To be continued...
