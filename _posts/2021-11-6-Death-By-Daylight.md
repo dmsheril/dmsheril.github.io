@@ -28,7 +28,7 @@ To do list:
 ### Candidate Datasets
 CDC's [Behavioral Risk Factor Surveillance System](https://chronicdata.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factors-Selected-Metropolitan-Area/j32a-sa6u)
 - 153k rows, 27 columns
-- downloaded CSV on 11/7/21 from CDC website
+- downloaded CSV on 11/6/21 from CDC website
 - subdivisions are selected metropolitan statistical areas (MMSAs)
 - years covered: 2011-2019
 - tons of health outcome measures, unclear how complete the coverage is though (only questions/years/MMSAs where there were more than 500 responses per MMSA are included)
@@ -36,7 +36,7 @@ CDC's [Behavioral Risk Factor Surveillance System](https://chronicdata.cdc.gov/B
 
 IHME's [United States Mortality Rates by County](https://www.kaggle.com/IHME/us-countylevel-mortality)
 - 67k rows, 30 columns
-- downloaded CSV on 11/6/21 from Kaggle
+- downloaded CSV on 11/5/21 from Kaggle
 - subdivisions are US counties (appears to be all, and state level stats are given as well)
 - years covered: every 5 years 1980-2010 plus 2014
 - simpler to interpret outcome measures: age-standardized mortality rate (death per 100k population) by category
